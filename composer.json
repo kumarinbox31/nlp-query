@@ -1,0 +1,14 @@
+{
+    "name": "abhijeet/nlp-query",
+    "description": "Ask database queries in plain English and get SQL results (supports Laravel, CodeIgniter, Core PHP).",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NlpQuery\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
